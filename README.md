@@ -1,7 +1,7 @@
 # Tetriping テトリス型タイピングゲーム
 
 今回作成したもの
-[Tetriping](https://waken8.github.io/portfolio-tetriping/)
+[Tetriping](https://kenwama.github.io/tetris-with-typing/)
 
 ## 今後の課題
 
